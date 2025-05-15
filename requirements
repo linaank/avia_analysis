@@ -1,0 +1,15 @@
+# Для сбора данных
+selenium
+beautifulsoup4
+requests
+airportsdata
+
+# Для анализа и визуализаций
+pandas
+numpy
+matplotlib
+seaborn
+
+# Для дэшборда
+streamlit
+plotly
