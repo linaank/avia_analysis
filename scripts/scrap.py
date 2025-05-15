@@ -41,7 +41,7 @@ options.add_argument("--user-data-dir=/tmp/selenium_profile")
 
 service = Service()
 driver = webdriver.Chrome(service=service, options=options)
-wait = WebDriverWait(driver, 10)
+wait = WebDriverWait(driver, 3)
 
 
 results = []
