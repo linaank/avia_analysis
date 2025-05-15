@@ -1,6 +1,5 @@
 # Для сбора данных
 selenium
-beautifulsoup4
 requests
 airportsdata
 
