@@ -19,7 +19,6 @@
 ## Структура репозитория
 
 ```
-.
 ├── README.md
 ├── requirements.txt
 ├── data/
