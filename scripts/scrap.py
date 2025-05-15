@@ -93,5 +93,5 @@ for origin, dest in routes:
 driver.quit()
 
 df = pd.DataFrame(results)
-df.to_csv("flight_prices.csv", index=False)
+df.to_csv("data/flight_prices.csv", index=False)
 print(df.head())
